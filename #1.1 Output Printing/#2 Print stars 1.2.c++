@@ -3,7 +3,7 @@ using namespace std;
 int main()
 {
 
-	cout << "*************" << endl;
+	cout << "*****g********" << endl;
 	cout << "*************" << endl;
 	cout << "*************" << endl;
 	cout << "*************" << endl;
